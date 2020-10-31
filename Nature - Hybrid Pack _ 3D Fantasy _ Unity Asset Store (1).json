@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Nature - Hybrid Pack | 3D Fantasy | Unity Asset Store",
+      "message": {
+        "embeds": [
+          {
+            "title": "Nature - Hybrid Pack | 3D Fantasy | Unity Asset Store",
+            "description": "Nature Hybrid Pack is a 3D environment art pack that blends the Low Poly art style with the Stylized art style, allowing you to create unique looking game worlds.\n\n**Key Features**\n- Most of the models have LODs to ensure an optimal performance.\n- The models have custom lightmap UVs.\n- All vegetation shaders have wind simulation.\n",
+            "color": 65292,
+            "fields": [
+              {
+                "name": "Check out the link below to watch the video:",
+                "value": "https://assetstore.unity.com/packages/3d/environments/fantasy/nature-hybrid-pack-181109?aid=1101l8ABH&utm_source=aff"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Assets",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "MasseyGameJam.Com",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "timestamp": "2020-10-31T22:51:00.000Z",
+            "image": {
+              "url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/d0d2f54d-414e-4dab-9109-cea32742a2ff.png"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
